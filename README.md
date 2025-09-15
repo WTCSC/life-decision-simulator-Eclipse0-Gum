@@ -18,3 +18,15 @@ The **Life Decision Simulator** is an interactive program where players make cho
    ```bash
    git clone https://github.com/WTCSC/life-decision-simulator-Eclipse0-Gum
    cd life-decision-simulator-Eclipse0-Gum
+
+
+
+![Static Badge](https://img.shields.io/badge/ready?style=for-the-badge&logo=codingninjas&logoColor=Red&logoSize=auto&label=Operational%20&labelColor=rgb&color=rbg&cacheSeconds=3600)
+![Python](https://img.shields.io/badge/made%20with-Python-blue)
+
+
+## Demo  
+
+Here’s a quick demo of the Life Decision Simulator in action:  
+
+![Life Decision Simulator Demo](Decision_Test.gif)
