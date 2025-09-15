@@ -21,7 +21,7 @@ The **Life Decision Simulator** is an interactive program where players make cho
 
 
 
-![Static Badge](https://img.shields.io/badge/ready?style=for-the-badge&logo=codingninjas&logoColor=Red&logoSize=auto&label=Operational%20&labelColor=rgb&color=rbg&cacheSeconds=3600)
+![Status](https://img.shields.io/badge/status-working-brightgreen)
 ![Python](https://img.shields.io/badge/made%20with-Python-blue)
 
 
