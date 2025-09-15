@@ -29,4 +29,38 @@ The **Life Decision Simulator** is an interactive program where players make cho
 
 Here’s a quick demo of the Life Decision Simulator in action:  
 
-![Life Decision Simulator Demo](Decision_Test.gif)
+![Life Decision Simulator Demo](/home/mendozac@CSGP.EDU/life-decision-simulator-Eclipse0-Gum/Decision_Test.gif)
+
+ # [Start: wake_up_scene]
+        |
+        V
+  "Get up" ------------------------------> [bag_scene]
+   |                                              |
+   |                                              V
+ "Sleep"                                      "Open Bag" ---> [Game Over]
+   |                                                 |
+ [Game Over]                                   "Leave Bag"
+                                                     |
+                                                     |
+                                               [run_scene]
+                                                     |
+                                   +-----------------+-----------------+ 
+                                   |                                   |
+                              "Run" --> [Game Over]               "Sandal"
+                                                                        |
+                                                                        v
+                                                                  [voice_scene]
+                                                                         |
+                                                         +---------------+----------------+
+                                                         |                                |
+                                                   "Accept" or "Decline"        (Both same outcome)
+                                                        |                                
+                                                        V
+                                                     [final_scene]
+                                                     |
+                                 +-------------------+-------------------+
+                                 |                                       |
+                            "Forfeit Offer"                            "Accept Offer"
+                                 |                                       |
+                                 v                                       v
+                                [Game Over]                [Ascend → Twist ending with Dr. House]
